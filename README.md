@@ -1,2 +1,5 @@
 # RecyclerViewEx
-Ini adalah conthoh RecyclerView yang saya buat
+Ini adalah contoh RecyclerView yang saya buat
+
+masih sederhana memang,
+tapi insyaAllah dapat membantu :)
